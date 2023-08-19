@@ -30,3 +30,5 @@ Sem Root Necessário: A aplicação não requer acesso root no dispositivo Andro
 6.Interagir com o Dispositivo: Use o mouse e o teclado do computador para interagir com o dispositivo Android espelhado.
 
 7.Finalizar o Espelhamento: Para encerrar o espelhamento, clique no botão "Encerrar Espelhamento" na aplicação.
+
+
